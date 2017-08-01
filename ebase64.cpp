@@ -1,4 +1,4 @@
-#include "base64.h"
+#include "ebase64.h"
 
 const char b64_alphabet[] = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
                             "abcdefghijklmnopqrstuvwxyz"
